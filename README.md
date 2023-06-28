@@ -1,6 +1,6 @@
 # People-counting-using-deep learning
 This project focuses on developing a crowd detection system using deep learning techniques. The goal is to accurately identify and analyze crowded scenes from images or video footage. This README file provides an overview of the project and instructions for running the code
-#ABSTRACT
+# ABSTRACT
 Crowd counting is a difficult task in computer vision due
 to complex and crowded scenes in real-world scenarios. In this
 project, we propose a new crowd counting method that uses the
@@ -19,3 +19,6 @@ counting in video. It uses the YOLO algorithm for people
 detection and density map estimation, and uses temporal
 consistency constraints to improve crowd count accuracy across
 frames.
+# FLOW-DIAGRAM
+<img width="132" alt="image" src="https://github.com/Vkeerthu/People-counting-using-ML/assets/118120941/b10f7da5-69b4-444d-91a8-ac97f6f4ffd0">
+
